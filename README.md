@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">An awesome tour booking site built on top of <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>.</h4>
+<h4 align="center">An awesome Song play website built on top of <a href="https://nodejs.org/en/" target="_blank"> React and NodeJS</a>.</h4>
 
 ## Deployed Version
 Live demo (Feel free to visit) 👉 : https://songifyappwebsite.herokuapp.com/
@@ -12,13 +12,19 @@ Live demo (Feel free to visit) 👉 : https://songifyappwebsite.herokuapp.com/
 ## Key Features
 
 * Authentication and Authorization
+  -Sign up or Register
   - Login and logout
-  - Using JWT 
+  - Using JSON Web Token (JWT) 
+	
 * User profile
-  - Update Name, email, and password
+  - Update Name
+	-email 
+	-password
+	
+* Can play songs 
 * PlayList
   - Can Make private and public playlist of movies
-* Can play songs 
+
 
 
 
