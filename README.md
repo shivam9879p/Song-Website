@@ -17,13 +17,25 @@ Live demo (Feel free to visit) 👉 : https://songifyappwebsite.herokuapp.com/
   - Using JSON Web Token (JWT) 
 	
 * User profile
-  - Update Name
-	-email 
-	-password
+  - Update Name ,email and password
 	
-* Can play songs 
-* PlayList
-  - Can Make private and public playlist of movies
+* You can search for songs and can play songs 
+
+
+
+## Screenshots
+
+### SignUp
+![SignUp](https://github.com/shivam9879p/Song-Website/blob/main/Screenshots/Accountsignup.png?raw=true)
+
+### Login
+![Login](https://github.com/shivam9879p/Song-Website/blob/main/Screenshots/loginpage.png?raw=true)
+
+### Home
+![Home](https://github.com/shivam9879p/Song-Website/blob/main/Screenshots/Homepage.png?raw=true)
+
+### Search Results
+![Search Results](https://github.com/shivam9879p/Song-Website/blob/main/Screenshots/SearchResultpage.png?raw=true)
 
 
 
